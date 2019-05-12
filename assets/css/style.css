@@ -1,0 +1,33 @@
+body {
+  font-size: 18px;
+  line-height: 34px;
+  margin: 50px;
+  border: 2px solid blueviolet;
+  width: 1270px;
+  height: 800px;
+  padding:50px 20px 0 20px;
+}
+
+
+.jumbotron  {
+  padding: 2rem 1rem;
+  background-color: #ea82f8;
+  border-radius: .3rem;
+  }
+.crystal-class {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  width: 200px;
+  height: 200px;
+  margin:-10px 30px 0 40px; 
+  }
+
+span  {
+  content: center;
+  margin-left: 3-px;
+}
+
+.row  {
+  padding-top:50px;
+  margin:80px;
+}
+
