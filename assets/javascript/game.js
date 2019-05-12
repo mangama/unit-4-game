@@ -10,7 +10,6 @@ $(document).ready(function () {
     green: 0
   };
 
-
   function getRandomIntInclusive(min, max) {
     // min = Math.ceil(min);
     // max = Math.floor(max);
@@ -30,11 +29,9 @@ $(document).ready(function () {
   }
   start();
   console.log(crystals);
-
   
   $("#your-score").text(yourScore);
   
-
 
   $(".crystal-class").on("click", function () {
     // console.log(`in crystal class click`);
